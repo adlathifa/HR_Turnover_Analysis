@@ -1,0 +1,312 @@
+﻿Emp_ID,Salary,DOB,Sex,MaritalDesc,RaceDesc,TermReason,EmploymentStatus,Department,RecruitmentSource,PerformanceScore,EmpSatisfaction,SpecialProjectsCount,Absences
+10026,62506,10/07/1983,M,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Exceeds,5,0,1
+10084,104437,5/05/1975,M,Married,White,career change,Voluntarily Terminated,IT/IS,Indeed,Fully Meets,3,6,17
+10196,64955,19/09/1988,F,Married,White,hours,Voluntarily Terminated,Production,LinkedIn,Fully Meets,3,0,3
+10088,64991,27/09/1988,F,Married,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,5,0,15
+10069,50825,8/09/1989,F,Divorced,White,return to school,Voluntarily Terminated,Production,Google Search,Fully Meets,4,0,2
+10002,57568,22/05/1977,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Exceeds,5,0,15
+10194,95660,24/05/1979,F,Single,White,N/A-StillEmployed,Active,Software Engineering,LinkedIn,Fully Meets,3,4,19
+10062,59365,18/02/1983,M,Widowed,White,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,4,0,19
+10114,47837,11/02/1970,F,Single,Black or African American,N/A-StillEmployed,Active,Production,Diversity Job Fair,Fully Meets,3,0,4
+10250,50178,7/01/1988,M,Divorced,White,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,5,6,16
+10252,54670,12/01/1974,F,Married,Black or African American,Another position,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4,0,12
+10242,47211,21/02/1974,M,Married,Black or African American,unhappy,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,3,0,15
+10012,92328,4/07/1988,M,Divorced,Black or African American,N/A-StillEmployed,Active,IT/IS,Diversity Job Fair,Exceeds,4,5,9
+10265,58709,20/07/1983,M,Single,Two or more races,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,4,0,7
+10066,52505,15/07/1977,M,Divorced,White,Another position,Voluntarily Terminated,Production,On-line Web application,Fully Meets,5,0,1
+10061,57834,18/10/1981,M,Single,White,attendance,Terminated for Cause,Production,Google Search,Fully Meets,4,0,20
+10023,70131,17/04/1966,F,Married,White,N/A-StillEmployed,Active,Production,Employee Referral,Exceeds,3,0,16
+10055,59026,27/10/1970,F,Single,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,5,0,12
+10245,110000,4/04/1986,F,Single,White,performance,Terminated for Cause,IT/IS,Google Search,Fully Meets,4,5,8
+10277,53250,6/04/1979,M,Single,Asian,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,13
+10046,51044,22/12/1970,M,Single,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,3,0,13
+10226,64919,27/12/1958,F,Divorced,Asian,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,3,0,2
+10003,62910,1/09/1989,F,Married,White,N/A-StillEmployed,Active,Production,Indeed,Exceeds,3,0,19
+10294,66441,21/09/1990,F,Single,White,N/A-StillEmployed,Active,Production,CareerBuilder,Needs Improvement,3,0,3
+10267,57815,16/01/1967,F,Single,White,career change,Voluntarily Terminated,Production,Google Search,Fully Meets,5,0,5
+10199,103613,30/07/1964,M,Single,Black or African American,return to school,Terminated for Cause,IT/IS,LinkedIn,Fully Meets,5,7,2
+10081,106367,4/04/1987,F,Married,Black or African American,N/A-StillEmployed,Active,Admin Offices,Diversity Job Fair,Fully Meets,4,3,4
+10175,74312,10/03/1970,M,Single,Asian,retiring,Voluntarily Terminated,Production,Indeed,Fully Meets,3,0,14
+10177,53492,24/08/1990,F,Married,White,Another position,Voluntarily Terminated,Production,Google Search,Fully Meets,4,0,6
+10238,63000,24/11/1987,F,Married,Black or African American,N/A-StillEmployed,Active,Admin Offices,Diversity Job Fair,Fully Meets,2,6,14
+10184,65288,28/07/1983,M,Single,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,3,0,9
+10203,64375,30/10/1969,F,Separated,Black or African American,N/A-StillEmployed,Active,Production,Diversity Job Fair,Fully Meets,5,0,17
+10188,74326,1/06/1964,F,Married,Black or African American,Another position,Voluntarily Terminated,Sales,Google Search,Fully Meets,5,0,19
+10107,63763,2/03/1980,F,Single,Black or African American,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,4,0,3
+10181,62162,19/08/1977,M,Married,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,5,0,15
+10150,77692,22/11/1966,M,Single,White,N/A-StillEmployed,Active,Software Engineering,Google Search,Fully Meets,3,5,4
+10001,72640,9/08/1983,M,Single,White,N/A-StillEmployed,Active,Production,Indeed,Exceeds,3,0,14
+10085,93396,5/04/1987,F,Single,White,N/A-StillEmployed,Active,Software Engineering,Indeed,Fully Meets,4,6,3
+10115,52846,2/02/1983,M,Single,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,14
+10082,100031,6/06/1986,F,Single,Black or African American,N/A-StillEmployed,Active,IT/IS,LinkedIn,Fully Meets,5,6,7
+10040,71860,15/05/1963,F,Single,White,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,5,0,7
+10067,61656,2/01/1951,F,Single,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,4,0,11
+10108,110929,9/02/1972,M,Married,White,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,5,7,8
+10210,54237,12/02/1979,F,Single,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,4,0,11
+10154,60380,24/08/1983,M,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,4
+10200,66808,11/06/1970,M,Single,Black or African American,N/A-StillEmployed,Active,Sales,Employee Referral,Fully Meets,5,0,17
+10240,64786,27/08/1983,F,Single,White,relocation out of area,Voluntarily Terminated,Production,Indeed,Fully Meets,4,0,3
+10168,64816,31/05/1988,F,Single,Black or African American,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,5,0,3
+10220,68678,5/09/1985,M,Single,White,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,3,6,2
+10275,64066,31/08/1981,F,Married,White,unhappy,Voluntarily Terminated,Production,Google Search,Fully Meets,5,0,9
+10269,59369,25/11/1978,M,Married,White,career change,Voluntarily Terminated,Production,Indeed,Fully Meets,4,0,6
+10029,50373,26/08/1980,M,Married,White,N/A-StillEmployed,Active,Production,Employee Referral,Exceeds,4,0,5
+10261,63108,8/09/1977,M,Single,White,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,5,0,3
+10292,59144,12/08/1979,M,Single,Black or African American,performance,Terminated for Cause,Production,LinkedIn,Needs Improvement,3,0,16
+10282,68051,17/12/1975,M,Divorced,White,N/A-StillEmployed,Active,Production,CareerBuilder,Needs Improvement,2,0,3
+10019,170500,19/03/1983,M,Single,Black or African American,N/A-StillEmployed,Active,Production,Indeed,Exceeds,5,0,15
+10094,63381,31/03/1977,F,Married,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,5,0,6
+10193,83552,26/08/1986,M,Married,White,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,3,6,2
+10132,56149,10/04/1987,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,15
+10083,92329,9/09/1965,M,Single,White,N/A-StillEmployed,Active,IT/IS,Employee Referral,Fully Meets,3,4,5
+10099,65729,19/04/1990,F,Single,White,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,4,0,8
+10212,85028,18/01/1952,F,Married,White,N/A-StillEmployed,Active,IT/IS,LinkedIn,Fully Meets,5,8,19
+10056,57583,5/11/1978,F,Married,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,3,0,1
+10143,56294,14/09/1979,M,Single,Two or more races,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,6
+10311,56991,15/04/1988,M,Married,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,4,3,2
+10070,55722,31/10/1977,M,Married,White,unhappy,Voluntarily Terminated,Production,Indeed,Fully Meets,4,0,14
+10155,101199,5/07/1979,F,Single,Black or African American,N/A-StillEmployed,Active,Software Engineering,CareerBuilder,Fully Meets,5,5,8
+10306,61568,2/11/1975,M,Single,Two or more races,N/A-StillEmployed,Active,Sales,Indeed,PIP,3,0,5
+10100,58275,25/02/1951,F,Separated,Black or African American,more money,Voluntarily Terminated,Production,Google Search,Fully Meets,5,0,1
+10310,53189,19/04/1967,M,Married,White,N/A-StillEmployed,Active,Production,Indeed,PIP,2,0,9
+10197,96820,4/09/1983,M,Single,White,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,5,7,15
+10276,51259,15/11/1982,M,Single,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,4,0,1
+10304,59231,14/05/1987,F,Single,White,N/A-StillEmployed,Active,Sales,Website,PIP,1,0,17
+10284,61584,2/12/1978,F,Married,Black or African American,N/A-StillEmployed,Active,Production,Indeed,Needs Improvement,4,0,6
+10207,46335,7/10/1986,F,Single,White,N/A-StillEmployed,Active,Production,CareerBuilder,Fully Meets,5,0,15
+10133,70621,18/07/1988,F,Married,White,N/A-StillEmployed,Active,IT/IS,Employee Referral,Fully Meets,4,6,16
+10028,138888,9/07/1970,M,Single,Black or African American,N/A-StillEmployed,Active,IT/IS,Indeed,Exceeds,5,5,4
+10006,74241,8/11/1988,F,Single,White,N/A-StillEmployed,Active,Sales,Indeed,Exceeds,5,0,14
+10105,75188,28/11/1973,F,Single,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,4,0,4
+10211,62514,23/09/1973,F,Married,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,3,0,6
+10064,60070,5/09/1991,F,Married,White,military,Voluntarily Terminated,Production,Google Search,Fully Meets,3,0,7
+10247,48888,31/05/1974,M,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,8
+10235,54285,25/08/1978,M,Married,White,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,3,0,3
+10299,56847,25/08/1989,F,Separated,White,N/A-StillEmployed,Active,Production,Indeed,PIP,1,0,5
+10280,60340,2/09/1983,M,Single,White,attendance,Terminated for Cause,Production,Google Search,Needs Improvement,4,0,16
+10296,59124,6/05/1989,F,Single,White,"no-call, no-show",Terminated for Cause,Production,Google Search,Needs Improvement,3,0,19
+10290,99280,15/05/1987,F,Married,Black or African American,attendance,Terminated for Cause,Software Engineering,Indeed,Needs Improvement,5,4,19
+10263,71776,22/09/1978,F,Married,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,17
+10136,65902,27/09/1987,F,Single,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,7
+10189,57748,14/04/1955,F,Married,White,military,Voluntarily Terminated,Production,Google Search,Fully Meets,3,0,16
+10308,64057,18/10/1989,M,Married,White,N/A-StillEmployed,Active,Production,Indeed,PIP,5,0,15
+10309,53366,18/06/1987,M,Single,White,N/A-StillEmployed,Active,IT/IS,LinkedIn,PIP,3,6,2
+10049,58530,16/03/1981,F,Married,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,5,0,19
+10093,72609,1/10/1981,M,Single,White,hours,Voluntarily Terminated,Production,Google Search,Fully Meets,5,0,20
+10163,55965,8/11/1983,F,Married,White,career change,Voluntarily Terminated,Production,Google Search,Fully Meets,3,0,6
+10305,70187,7/07/1975,M,Married,White,Fatal attraction,Terminated for Cause,Sales,Employee Referral,PIP,5,0,7
+10015,178000,5/07/1980,M,Single,Black or African American,N/A-StillEmployed,Active,IT/IS,Indeed,Exceeds,5,5,15
+10080,99351,16/04/1979,F,Married,White,N/A-StillEmployed,Active,Admin Offices,Other,Fully Meets,3,2,3
+10258,67251,28/08/1963,M,Single,Black or African American,N/A-StillEmployed,Active,Sales,CareerBuilder,Fully Meets,3,0,7
+10273,65707,6/07/1968,F,Single,White,N/A-StillEmployed,Active,IT/IS,LinkedIn,Fully Meets,4,5,1
+10111,52249,15/09/1985,M,Single,White,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,3,0,5
+10257,53171,2/12/1983,F,Single,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,12
+10159,51337,1/10/1990,F,Married,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,19
+10122,51505,15/05/1970,F,Divorced,Black or African American,hours,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4,0,2
+10142,59370,10/07/1971,F,Widowed,Black or African American,attendance,Terminated for Cause,Sales,CareerBuilder,Fully Meets,4,0,7
+10283,54933,9/08/1974,M,Married,Black or African American,military,Voluntarily Terminated,Production,Diversity Job Fair,Needs Improvement,4,0,15
+10018,57815,8/05/1980,F,Single,Two or more races,N/A-StillEmployed,Active,Production,Indeed,Exceeds,4,0,3
+10255,61555,22/09/1989,F,Single,White,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,5,0,20
+10246,114800,23/10/1971,F,Single,White,"no-call, no-show",Terminated for Cause,IT/IS,Indeed,Fully Meets,4,4,10
+10228,74679,24/11/1989,M,Married,White,N/A-StillEmployed,Active,IT/IS,LinkedIn,Fully Meets,5,7,20
+10243,53018,18/06/1992,F,Single,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,5,0,7
+10031,59892,29/09/1969,M,Divorced,Black or African American,N/A-StillEmployed,Active,Production,Diversity Job Fair,Exceeds,4,0,1
+10300,68898,12/10/1964,M,Married,Black or African American,career change,Voluntarily Terminated,Production,Diversity Job Fair,PIP,3,0,10
+10101,61242,16/04/1981,F,Separated,White,N/A-StillEmployed,Active,IT/IS,Employee Referral,Fully Meets,4,5,11
+10237,66825,25/05/1986,F,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,20
+10051,48285,21/05/1979,M,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,2
+10218,66149,8/12/1983,F,Separated,American Indian or Alaska Native,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,5,0,1
+10256,49256,9/10/1974,F,Married,Asian,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,3
+10098,62957,11/07/1981,M,Divorced,White,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,3,0,2
+10059,63813,21/05/1983,F,Divorced,White,more money,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,5,0,17
+10234,99020,30/06/1989,M,Married,Black or African American,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,5,5,8
+10109,71707,9/02/1969,M,Single,Two or more races,relocation out of area,Voluntarily Terminated,Sales,LinkedIn,Fully Meets,5,0,20
+10125,54828,23/03/1977,F,Married,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,4,0,13
+10074,64246,10/08/1988,M,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,20
+10097,52177,18/08/1952,F,Single,White,retiring,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,4,0,8
+10007,62065,2/05/1974,F,Married,White,N/A-StillEmployed,Active,Production,CareerBuilder,Exceeds,4,0,5
+10129,46998,4/01/1984,M,Single,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,4,0,1
+10075,68099,27/08/1972,F,Single,White,hours,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,3,0,15
+10167,70545,14/09/1988,M,Married,American Indian or Alaska Native,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,5,0,9
+10195,63478,16/02/1984,F,Married,White,relocation out of area,Voluntarily Terminated,Production,Indeed,Fully Meets,5,0,16
+10112,97999,21/02/1984,F,Single,White,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,5,6,4
+10272,180000,17/03/1966,F,Married,White,N/A-StillEmployed,Active,Sales,LinkedIn,Fully Meets,4,0,19
+10182,49920,16/09/1985,F,Married,Black or African American,"no-call, no-show",Terminated for Cause,Admin Offices,Indeed,Fully Meets,3,4,6
+10248,55425,10/06/1986,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,4
+10201,69340,11/03/1984,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,4
+10214,64995,7/05/1992,F,Separated,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,3,0,6
+10160,68182,22/09/1976,F,Divorced,White,unhappy,Voluntarily Terminated,Production,Google Search,Fully Meets,3,0,18
+10289,83082,15/11/1976,M,Married,Asian,unhappy,Voluntarily Terminated,Production,Indeed,Needs Improvement,2,0,4
+10139,51908,28/01/1991,F,Single,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,3,0,14
+10227,61242,11/09/1972,F,Single,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,7
+10236,45069,22/03/1966,F,Divorced,White,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,5,0,7
+10009,60724,6/11/1986,F,Divorced,American Indian or Alaska Native,N/A-StillEmployed,Active,Production,LinkedIn,Exceeds,4,0,11
+10060,60436,13/04/1964,F,Separated,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,9
+10034,46837,19/08/1959,M,Married,White,more money,Voluntarily Terminated,Production,CareerBuilder,Exceeds,4,0,9
+10156,105700,7/11/1986,F,Married,Asian,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,3,5,2
+10036,63322,8/09/1969,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Exceeds,3,0,1
+10138,61154,17/04/1986,F,Married,Black or African American,unhappy,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,4,0,4
+10244,68999,11/11/1989,F,Single,White,maternity leave - did not return,Voluntarily Terminated,Sales,Google Search,Fully Meets,5,0,2
+10192,50482,19/01/1976,M,Single,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,4,0,10
+10231,65310,27/11/1979,M,Single,White,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,5,0,13
+10089,250000,21/09/1954,F,Married,White,N/A-StillEmployed,Active,Executive Office,Indeed,Fully Meets,3,0,10
+10166,54005,8/12/1973,F,Married,White,more money,Voluntarily Terminated,Production,Google Search,Fully Meets,5,0,16
+10170,45433,8/10/1970,F,Married,White,more money,Voluntarily Terminated,Production,Google Search,Fully Meets,4,0,6
+10208,46654,10/11/1977,M,Single,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,3
+10176,63973,2/02/1980,M,Married,Asian,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,3,0,17
+10165,71339,24/02/1969,M,Single,Black or African American,N/A-StillEmployed,Active,Sales,Diversity Job Fair,Fully Meets,5,0,20
+10113,93206,23/04/1986,M,Married,White,N/A-StillEmployed,Active,IT/IS,Employee Referral,Fully Meets,5,6,7
+10092,82758,1/07/1972,M,Married,White,attendance,Terminated for Cause,Production,Employee Referral,Fully Meets,4,0,9
+10106,66074,25/07/1979,F,Divorced,Asian,Another position,Voluntarily Terminated,Production,Indeed,Fully Meets,3,0,20
+10052,46120,9/12/1986,M,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,13
+10038,64520,26/04/1984,M,Divorced,Black or African American,N/A-StillEmployed,Active,Admin Offices,Website,Fully Meets,4,4,3
+10249,61962,9/05/1984,M,Married,White,more money,Voluntarily Terminated,Production,Google Search,Fully Meets,3,0,20
+10232,81584,14/06/1987,F,Single,Asian,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,5,7,2
+10087,63676,17/01/1979,F,Single,Asian,return to school,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,3,0,17
+10134,93046,10/06/1984,M,Married,White,N/A-StillEmployed,Active,Admin Offices,CareerBuilder,Fully Meets,4,0,20
+10251,64738,2/09/1982,M,Married,Asian,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,3,0,10
+10103,70468,27/12/1988,M,Separated,Black or African American,N/A-StillEmployed,Active,Sales,Website,Fully Meets,3,0,16
+10017,77915,26/10/1981,F,Married,White,N/A-StillEmployed,Active,Production,Website,Exceeds,3,0,11
+10186,52624,26/03/1981,F,Married,White,unhappy,Voluntarily Terminated,Production,Indeed,Fully Meets,4,0,16
+10137,63450,19/03/1979,M,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,7
+10008,51777,5/10/1988,F,Single,Black or African American,N/A-StillEmployed,Active,IT/IS,Diversity Job Fair,Exceeds,4,5,14
+10096,67237,26/12/1976,F,Widowed,White,more money,Voluntarily Terminated,Production,LinkedIn,Fully Meets,4,0,15
+10035,73330,28/03/1982,F,Single,Black or African American,N/A-StillEmployed,Active,Production,Indeed,Exceeds,4,0,19
+10057,52057,22/10/1975,F,Married,Black or African American,N/A-StillEmployed,Active,Production,Website,Fully Meets,3,0,6
+10004,47434,14/02/1973,F,Single,Black or African American,Another position,Voluntarily Terminated,Production,Diversity Job Fair,Exceeds,4,0,17
+10191,52788,9/11/1972,M,Widowed,White,hours,Voluntarily Terminated,Production,Indeed,Fully Meets,4,0,18
+10219,45395,7/07/1986,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,14
+10077,62385,25/08/1976,F,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,4
+10073,68407,10/12/1986,F,Married,Two or more races,Another position,Voluntarily Terminated,Production,LinkedIn,Fully Meets,4,0,16
+10279,61349,7/11/1974,F,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,11
+10110,105688,7/11/1987,F,Single,Asian,N/A-StillEmployed,Active,Software Engineering,Google Search,Fully Meets,5,4,14
+10053,54132,22/11/1977,F,Married,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,4,0,8
+10076,55315,21/05/1987,F,Single,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,16
+10145,62810,7/01/1987,F,Married,Black or African American,N/A-StillEmployed,Active,Production,CareerBuilder,Fully Meets,3,0,20
+10202,63291,1/07/1984,M,Married,Two or more races,N/A-StillEmployed,Active,Sales,Website,Fully Meets,4,0,7
+10128,62659,30/05/1968,F,Single,Black or African American,Another position,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4,0,17
+10068,55688,22/09/1976,F,Single,White,N/A-StillEmployed,Active,Production,CareerBuilder,Fully Meets,4,0,10
+10116,83667,10/08/1981,M,Single,Hispanic,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,3,0,2
+10298,55800,29/06/1985,M,Single,White,unhappy,Voluntarily Terminated,Production,LinkedIn,PIP,2,0,6
+10213,58207,17/08/1992,M,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,14
+10288,157000,5/10/1986,M,Married,Black or African American,N/A-StillEmployed,Active,IT/IS,Diversity Job Fair,Needs Improvement,3,6,13
+10025,72460,24/04/1970,F,Single,Black or African American,N/A-StillEmployed,Active,Production,Indeed,Exceeds,3,0,1
+10223,72106,3/12/1976,M,Single,Black or African American,N/A-StillEmployed,Active,Production,Diversity Job Fair,Fully Meets,4,0,12
+10151,52599,4/04/1979,F,Married,White,N/A-StillEmployed,Active,IT/IS,CareerBuilder,Fully Meets,3,6,6
+10254,63430,7/07/1984,F,Divorced,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,18
+10120,74417,1/12/1974,M,Separated,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,11
+10216,57575,18/04/1980,M,Single,Asian,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,13
+10079,87921,25/04/1970,M,Single,Asian,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,3,6,17
+10215,50470,2/05/1989,M,Single,Black or African American,return to school,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,3,0,19
+10185,46664,28/03/1983,M,Married,White,more money,Voluntarily Terminated,Production,Employee Referral,Fully Meets,3,0,10
+10063,48495,8/04/1977,M,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,11
+10037,52984,3/06/1967,F,Separated,Black or African American,N/A-StillEmployed,Active,Production,Diversity Job Fair,Exceeds,3,0,12
+10042,63695,31/03/1989,F,Single,Two or more races,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,5,0,2
+10206,62061,7/07/1984,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,4
+10104,66738,23/11/1985,F,Single,White,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,5,0,5
+10303,52674,30/09/1980,F,Single,Two or more races,performance,Terminated for Cause,Production,LinkedIn,PIP,2,0,3
+10078,71966,11/02/1952,F,Married,Asian,unhappy,Voluntarily Terminated,Production,LinkedIn,Fully Meets,3,0,17
+10121,63051,11/05/1990,F,Single,White,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,3,0,1
+10021,47414,11/12/1976,M,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Exceeds,3,0,13
+10281,53060,24/11/1979,M,Single,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Needs Improvement,3,0,6
+10041,68829,19/05/1982,M,Single,White,N/A-StillEmployed,Active,Sales,Website,Fully Meets,5,0,18
+10148,63515,1/05/1979,F,Married,White,Another position,Voluntarily Terminated,Production,Google Search,Fully Meets,4,0,7
+10005,108987,20/02/1979,M,Single,Black or African American,Another position,Voluntarily Terminated,Software Engineering,Diversity Job Fair,Exceeds,5,3,13
+10259,93093,5/09/1984,M,Married,White,performance,Voluntarily Terminated,IT/IS,Employee Referral,Fully Meets,4,5,19
+10286,53564,17/03/1988,M,Single,Black or African American,career change,Voluntarily Terminated,Production,Google Search,Needs Improvement,5,0,15
+10297,60270,18/07/1989,F,Married,Asian,unhappy,Voluntarily Terminated,Production,CareerBuilder,Needs Improvement,5,0,2
+10171,45998,20/07/1986,F,Single,White,medical issues,Voluntarily Terminated,Production,LinkedIn,Fully Meets,4,0,5
+10032,57954,17/08/1986,F,Married,White,more money,Voluntarily Terminated,Production,Indeed,Exceeds,5,0,12
+10130,74669,9/05/1977,F,Married,White,Another position,Voluntarily Terminated,Production,Indeed,Fully Meets,5,0,6
+10217,74226,10/03/1979,F,Married,Asian,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,14
+10016,93554,16/09/1984,F,Married,Black or African American,N/A-StillEmployed,Active,IT/IS,Employee Referral,Exceeds,5,7,16
+10050,64724,6/03/1988,M,Married,Asian,more money,Voluntarily Terminated,Production,Google Search,Fully Meets,3,0,13
+10164,47001,23/11/1981,M,Single,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,3,0,15
+10124,61844,29/08/1988,F,Married,Black or African American,N/A-StillEmployed,Active,Sales,Website,Fully Meets,5,0,9
+10187,46799,15/10/1984,F,Divorced,Asian,Another position,Voluntarily Terminated,Production,Google Search,Fully Meets,4,0,14
+10225,59472,19/06/1961,M,Single,White,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,3,0,14
+10262,46430,22/09/1970,F,Divorced,White,unhappy,Voluntarily Terminated,Production,Indeed,Fully Meets,5,0,16
+10131,83363,6/11/1984,M,Married,Black or African American,career change,Voluntarily Terminated,Software Engineering,Diversity Job Fair,Fully Meets,4,0,4
+10239,95920,12/05/1980,F,Married,Black or African American,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,4,6,10
+10152,61729,31/12/1984,M,Divorced,White,more money,Voluntarily Terminated,Production,Indeed,Fully Meets,5,0,19
+10140,61809,12/10/1954,M,Married,White,N/A-StillEmployed,Active,Sales,CareerBuilder,Fully Meets,3,0,4
+10058,45115,22/07/1982,M,Divorced,White,retiring,Voluntarily Terminated,Production,LinkedIn,Fully Meets,4,0,11
+10011,46738,12/01/1973,F,Married,Asian,N/A-StillEmployed,Active,Production,Google Search,Exceeds,5,0,16
+10230,64971,5/09/1981,F,Divorced,Black or African American,return to school,Voluntarily Terminated,Production,Google Search,Fully Meets,4,0,10
+10224,55578,3/07/1972,M,Married,White,Another position,Voluntarily Terminated,Production,Indeed,Fully Meets,5,0,13
+10047,50428,7/01/1974,M,Married,Black or African American,attendance,Voluntarily Terminated,Production,Indeed,Fully Meets,3,0,11
+10285,61422,7/01/1985,F,Married,White,attendance,Terminated for Cause,Production,Indeed,Needs Improvement,3,0,16
+10020,63353,28/01/1985,M,Widowed,White,N/A-StillEmployed,Active,Production,Employee Referral,Exceeds,5,0,4
+10162,89883,11/10/1981,F,Married,White,N/A-StillEmployed,Active,IT/IS,Employee Referral,Fully Meets,5,6,15
+10149,120000,27/05/1973,F,Single,White,Another position,Voluntarily Terminated,IT/IS,LinkedIn,Fully Meets,3,7,12
+10086,150290,21/11/1972,F,Single,Black or African American,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,3,5,17
+10054,60627,5/12/1974,F,Separated,White,N/A-StillEmployed,Active,Production,Website,Fully Meets,4,0,8
+10065,53180,18/03/1987,M,Single,White,Another position,Voluntarily Terminated,Production,Google Search,Fully Meets,5,0,4
+10198,140920,5/04/1973,M,Single,White,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,5,7,13
+10222,148999,4/01/1964,M,Divorced,Black or African American,hours,Voluntarily Terminated,IT/IS,Diversity Job Fair,Fully Meets,4,6,8
+10126,86214,24/07/1986,F,Married,White,N/A-StillEmployed,Active,Software Engineering,Indeed,Fully Meets,3,6,2
+10295,47750,6/06/1968,F,Single,Black or African American,N/A-StillEmployed,Active,Production,Diversity Job Fair,Needs Improvement,4,0,4
+10260,46428,21/12/1974,M,Single,White,relocation out of area,Voluntarily Terminated,Production,Google Search,Fully Meets,5,0,7
+10233,57975,26/04/1986,M,Married,White,N/A-StillEmployed,Active,Production,CareerBuilder,Fully Meets,3,0,13
+10229,88527,17/12/1987,M,Divorced,Black or African American,hours,Voluntarily Terminated,IT/IS,LinkedIn,Fully Meets,3,5,2
+10169,56147,10/07/1988,F,Married,Black or African American,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,2
+10071,50923,10/03/1975,F,Single,Asian,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,5,0,14
+10179,50750,14/04/1981,F,Married,White,N/A-StillEmployed,Active,IT/IS,LinkedIn,Fully Meets,3,6,7
+10091,52087,24/08/1985,F,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,15
+10178,87826,8/02/1970,M,Married,White,N/A-StillEmployed,Active,IT/IS,Employee Referral,Fully Meets,3,7,16
+10039,51920,19/05/1988,F,Single,White,N/A-StillEmployed,Active,Admin Offices,Website,Fully Meets,3,5,2
+10095,63878,25/11/1987,F,Single,White,maternity leave - did not return,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,4,0,20
+10027,60656,30/10/1963,M,Single,White,N/A-StillEmployed,Active,Production,Indeed,Exceeds,3,0,4
+10291,72992,16/08/1984,M,Divorced,Black or African American,N/A-StillEmployed,Active,Sales,Diversity Job Fair,Needs Improvement,4,0,16
+10153,55000,14/06/1987,F,Married,Black or African American,career change,Voluntarily Terminated,Admin Offices,Diversity Job Fair,Fully Meets,4,4,17
+10157,58939,2/02/1965,F,Single,White,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,3,0,16
+10119,66593,12/03/1973,F,Married,Black or African American,N/A-StillEmployed,Active,IT/IS,LinkedIn,Fully Meets,3,5,19
+10180,87565,9/02/1983,M,Married,Asian,N/A-StillEmployed,Active,IT/IS,LinkedIn,Fully Meets,4,5,13
+10302,64021,20/07/1968,F,Married,White,N/A-StillEmployed,Active,Production,Indeed,PIP,2,1,20
+10090,65714,30/09/1975,F,Married,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,15
+10030,62425,26/03/1973,F,Divorced,White,unhappy,Voluntarily Terminated,Production,LinkedIn,Exceeds,4,0,16
+10278,47961,25/08/1982,F,Divorced,Two or more races,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,4,0,9
+10307,58273,9/05/1974,M,Married,White,N/A-StillEmployed,Active,Sales,Website,PIP,2,0,5
+10147,63003,1/09/1986,M,Single,White,N/A-StillEmployed,Active,Admin Offices,Indeed,Fully Meets,5,5,9
+10266,61355,14/03/1985,M,Married,Asian,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,4
+10241,60120,12/05/1989,F,Married,Black or African American,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,4,0,18
+10158,63682,28/03/1978,F,Married,Black or African American,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,4,0,12
+10117,63025,7/10/1982,M,Married,White,N/A-StillEmployed,Active,Production,Google Search,Fully Meets,5,0,10
+10209,59238,15/08/1968,F,Single,Asian,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,5,0,13
+10024,92989,6/05/1983,M,Single,White,N/A-StillEmployed,Active,Software Engineering,LinkedIn,Exceeds,5,5,1
+10173,90100,24/10/1987,M,Married,White,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,3,6,14
+10221,60754,3/04/1975,F,Married,Black or African American,Another position,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,5,0,11
+10146,72202,24/05/1953,F,Married,White,Another position,Voluntarily Terminated,Production,Google Search,Fully Meets,3,0,3
+10161,58370,7/05/1965,F,Single,Black or African American,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,3,0,18
+10141,48413,9/05/1965,F,Single,White,return to school,Voluntarily Terminated,Production,Indeed,Fully Meets,4,0,1
+10268,67176,16/09/1975,M,Widowed,White,military,Voluntarily Terminated,Production,Other,Fully Meets,4,0,15
+10123,56339,5/06/1967,F,Divorced,Black or African American,N/A-StillEmployed,Active,Production,Indeed,Fully Meets,5,0,4
+10013,64397,15/01/1968,M,Separated,White,N/A-StillEmployed,Active,Sales,Indeed,Exceeds,3,0,6
+10287,63025,16/05/1983,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Needs Improvement,5,0,18
+10044,75281,5/05/1988,M,Married,White,medical issues,Voluntarily Terminated,IT/IS,CareerBuilder,Fully Meets,3,5,11
+10102,100416,14/06/1983,M,Single,Black or African American,medical issues,Voluntarily Terminated,Software Engineering,Diversity Job Fair,Fully Meets,3,4,9
+10270,74813,15/03/1985,F,Single,White,unhappy,Voluntarily Terminated,Production,LinkedIn,Fully Meets,3,0,5
+10045,76029,31/03/1969,M,Married,White,N/A-StillEmployed,Active,IT/IS,Employee Referral,Fully Meets,4,7,8
+10205,57859,23/05/1991,F,Married,Two or more races,N/A-StillEmployed,Active,Sales,Indeed,Fully Meets,3,0,16
+10014,58523,31/01/1987,M,Divorced,White,maternity leave - did not return,Voluntarily Terminated,Production,LinkedIn,Exceeds,5,0,15
+10144,88976,10/10/1968,M,Divorced,White,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,3,0,19
+10253,55875,11/07/1989,M,Single,Asian,N/A-StillEmployed,Active,Sales,Website,Fully Meets,4,0,11
+10118,113999,7/08/1986,M,Married,Black or African American,"no-call, no-show",Terminated for Cause,IT/IS,Employee Referral,Fully Meets,3,7,9
+10022,49773,3/06/1986,F,Married,White,gross misconduct,Terminated for Cause,Production,Google Search,Exceeds,5,0,18
+10183,62068,6/04/1985,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,3,0,7
+10190,66541,10/02/1976,M,Single,Black or African American,N/A-StillEmployed,Active,Production,Employee Referral,Fully Meets,5,0,4
+10274,80512,14/11/1955,F,Married,Black or African American,Another position,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,3,0,5
+10293,50274,2/08/1980,F,Single,White,career change,Voluntarily Terminated,Production,CareerBuilder,Needs Improvement,3,0,13
+10172,84903,8/07/1981,M,Single,Asian,N/A-StillEmployed,Active,IT/IS,Indeed,Fully Meets,4,7,17
+10127,107226,2/05/1978,F,Widowed,Asian,N/A-StillEmployed,Active,IT/IS,Employee Referral,Fully Meets,4,8,7
+10072,58371,24/05/1987,M,Single,White,hours,Voluntarily Terminated,Production,LinkedIn,Fully Meets,5,0,11
+10048,55140,9/09/1965,M,Married,White,unhappy,Voluntarily Terminated,Production,Website,Fully Meets,3,0,7
+10204,58062,30/07/1983,F,Divorced,White,Another position,Voluntarily Terminated,Production,Google Search,Fully Meets,5,0,9
+10264,59728,2/10/1969,F,Single,Black or African American,relocation out of area,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4,0,16
+10033,70507,7/11/1958,M,Single,White,retiring,Voluntarily Terminated,Production,LinkedIn,Exceeds,3,0,7
+10174,60446,20/04/1985,F,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,14
+10135,65893,11/05/1985,M,Single,White,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,4,0,13
+10301,48513,4/05/1982,F,Single,Asian,Another position,Voluntarily Terminated,Production,Google Search,PIP,2,0,4
+10010,220450,30/08/1979,F,Single,White,N/A-StillEmployed,Active,IT/IS,Employee Referral,Exceeds,5,6,16
+10043,89292,24/02/1979,F,Single,White,N/A-StillEmployed,Active,IT/IS,Employee Referral,Fully Meets,3,5,11
+10271,45046,17/08/1978,F,Widowed,Asian,N/A-StillEmployed,Active,Production,LinkedIn,Fully Meets,5,0,2

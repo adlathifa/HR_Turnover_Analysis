@@ -41,7 +41,7 @@ Employee turnover is a critical HR metric that can indicate dissatisfaction, bur
 - <a href="https://public.tableau.com/app/profile/annisa.aufa.dina.lathifa/viz/HRTurnoverAnalysis_17462643352280/Dashboard1?publish=yes"> Interaktive Dashboard</a>
 
 
-### Key Insights
+### Insights & Recommendation
 ---
 #### 1. High Turnover in Production and Software Engineering  
 These departments show the highest turnover rates.  

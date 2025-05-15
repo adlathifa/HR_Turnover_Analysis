@@ -70,6 +70,5 @@ Higher absence rates align with higher resignation risk.
 **Recommendation:** Use absenteeism data as an early warning. Provide health, mental wellness, and flexible work support.
 
 
-### Author
----
+## Author
 Annisa Aufa - <a href="https://github.com/adlathifa">Github Profile</a>

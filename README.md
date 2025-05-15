@@ -1,17 +1,15 @@
-## HR Turnover Analysis Dashboard
+# HR Turnover Analysis Dashboard
 
-### Project Overview
----
+## Project Overview
 Employee turnover is a critical HR metric that can indicate dissatisfaction, burnout, or better opportunities elsewhere. This project aims to analyze employee turnover data to uncover patterns and provide actionable insights for improving employee retention. The dashboard provides a clear overview of key HR metrics including total hires, active employees, reasons for leaving, satisfaction levels, and turnover rates by department, age, and performance.
 
 
-### Dataset Used
----
+## Dataset Used
 - <a href="https://github.com/adlathifa/HR_Turnover_Analysis/blob/main/dataset_hr_analytics.csv">Dataset</a>
 
 
-### Key Questions
----
+## Key Questions
+
 - Which departments experience the highest turnover?
 - Are certain age groups more likely to leave?
 - How does performance level relate to turnover?
@@ -20,8 +18,8 @@ Employee turnover is a critical HR metric that can indicate dissatisfaction, bur
 - Is there a relationship between absences and turnover?
 
 
-### Process
----
+## Process
+
 1. **Data Cleaning**
    - Checked for duplicates
 
@@ -34,15 +32,15 @@ Employee turnover is a critical HR metric that can indicate dissatisfaction, bur
    - Built interactive dashboard with **Tableau**.
 
 
-### Dashboard Preview
----
+## Dashboard Preview
+
 ![Employee Turnover Dashboard](./hr_turnover_analysis.png)
 
 - <a href="https://public.tableau.com/app/profile/annisa.aufa.dina.lathifa/viz/HRTurnoverAnalysis_17462643352280/Dashboard1?publish=yes"> Interaktive Dashboard</a>
 
 
-### Insights & Recommendation
----
+## Insights & Recommendation
+
 #### 1. High Turnover in Production and Software Engineering  
 These departments show the highest turnover rates.  
 **Recommendation:** Investigate underlying causes and develop focused strategies to improve retention.
